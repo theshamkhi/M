@@ -4,14 +4,13 @@
 
 ### 1. Mise à jour en temps réel
 - **Intégration dynamique de base de données** :
-  - Les projets, réalisations et autres contenus doivent être mis à jour en temps réel via une base de données.
-  - Système de gestion de contenu (CMS) pour faciliter l’ajout, la modification et la suppression d’éléments.
+  - Les projets, réalisations et autres contenus doivent être liés à une base de données qui permet des mises à jour sans modification du code source.
 - **Flux d'activité en direct** :
-  - Intégration des APIs GitHub et LinkedIn pour afficher automatiquement les dernières contributions, commits, répertoires ou activités professionnelles.
+  - Intégration des APIs de GitHub et LinkedIn pour afficher automatiquement les dernières contributions, commits, dépôts, ou activités professionnelles.
 
 ### 2. Expérience Utilisateur Interactive
 - **Système d’interaction pour les visiteurs** :
-  - Implémentation d’un système de chat interactif avec appels API côté serveur pour répondre aux questions ou recueillir des commentaires.
+  - Mise en place d’un système de chat avec des appels API côté serveur pour permettre aux visiteurs de poser des questions, laisser des commentaires ou obtenir des réponses immédiates.
 - **Visualisation dynamique des compétences** :
   - Graphiques et diagrammes animés montrant l’évolution des compétences au fil du temps.
 
